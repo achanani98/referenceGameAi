@@ -1,3 +1,3 @@
- #probability model- http://arnosoftwaredev.blogspot.in/2008/07/battleship-game-algorithm-explained.html
+#probability model- http://arnosoftwaredev.blogspot.in/2008/07/battleship-game-algorithm-explained.html
 #Numpy,Scipy,matplotlib Tutorial- http://cs231n.github.io/python-numpy-tutorial/
 #Tensorflow reference- https://pythonprogramming.net/tensorflow-introduction-machine-learning-tutorial/
