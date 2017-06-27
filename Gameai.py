@@ -189,7 +189,7 @@ with tf.Session() as session:
                 feed_dict[input_layer]=inpt
                 feed_dict[Q_s_a]=outpt
                 _,l=session.run([optimizer,cost],feed_dict=feed_dict)
-        print session.run(weights1),session.run(weights2)
+    
         print '-----',game_progress[game-1],'-----',sum(game_progress)*1.0/len(game_progress)
     w1=session.run(weights1)
     b1=session.run(baises1)
